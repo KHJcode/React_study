@@ -1,1 +1,3 @@
 # React study
+
+Learning React.
