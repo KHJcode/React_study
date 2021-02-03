@@ -1,7 +1,7 @@
 import { observable } from 'mobx';
 
 const counter = observable({
-  number: 0,
+  number: 1,
   increase() {
     this.number++;
   },

@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react';
 import { useObserver } from 'mobx-react';
-import useStore from '../store';
+import useStore from '../stores';
 
 
 const Counter = () => {
